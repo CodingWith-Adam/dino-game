@@ -1,14 +1,15 @@
 # Dino Game - Game Dev
 
-[<img src="cover.png" width="80%" >](https://www.youtube.com/c/codingwithadam)
+[<img src="cover.png" width="80%" >](https://youtu.be/ooru4pyEv1I)
 
 ### YouTube Tutorial:
 
-https://www.youtube.com/c/codingwithadam
+https://youtu.be/ooru4pyEv1I
 
 ### Try the game here:
 
 https://codingwith-adam.github.io/dino-game/index.html
+
 (On a mobile device play in landscape orientation for the best experience)
 
 In this exciting tutorial we are going to build a clone of the chrome dinosaur game with Javascript and a HTML Canvas. This version of the game can be played on a touch screen or with a keyboard. The game will scale to fit on any size screen.
