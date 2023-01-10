@@ -14,6 +14,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        flex-direction: column;
         height: 100vh;
 
         user-select: none;
@@ -30,10 +31,24 @@
       canvas {
         border: 0.1px solid grey;
       }
+      a {
+        color: red;
+      }
+      .links {
+        margin-bottom: 20px;
+        font-weight: bold;
+      }
     </style>
     <script src="index.js" defer type="module"></script>
   </head>
   <body>
+    <div class="links">
+      <a href="https://github.com/CodingWith-Adam/dino-game"
+        >GitHub Repository</a
+      >&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtube.com/c/codingwithadam"
+        >YouTube Tutorial</a
+      >
+    </div>
     <canvas id="game"></canvas>
   </body>
 </html>
